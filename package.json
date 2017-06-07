@@ -4,7 +4,7 @@
   },
   "name": "rando-tile",
   "description": "Gives you a random map tile array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "directories": {
     "test": "test"
