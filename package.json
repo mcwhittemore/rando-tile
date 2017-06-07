@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@mapbox/tilebelt": "^1.0.1"
+  },
+  "name": "rando-tile",
+  "description": "Gives you a random map tile array",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Matthew Chase Whittemore",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcwhittemore/rando-tile.git"
+  },
+  "keywords": [
+    "tiles",
+    "random",
+    "not-really-random"
+  ],
+  "bugs": {
+    "url": "https://github.com/mcwhittemore/rando-tile/issues"
+  },
+  "homepage": "https://github.com/mcwhittemore/rando-tile#readme"
+}
